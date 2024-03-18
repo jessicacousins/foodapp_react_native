@@ -8,6 +8,7 @@ start: `npx expo start`
 - `npx expo install expo-image-picker`
 - `npx expo install react-native-gesture-handler react-native-reanimated`
 - `npx expo install react-native-view-shot expo-media-library`
+- `npm install dom-to-image`
 
 ```
 https://docs.expo.dev/tutorial/introduction/
